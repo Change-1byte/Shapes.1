@@ -1,5 +1,6 @@
 # Shapes.1
 the input and calculation "engine" for a drafting program
+
 This is the first in a series of seven assignments (Assignments 1-4, 9 two parts, 11) that will end with an object-oriented, GUI-based Windows program by the end of the semester. It begins as a console program, using coding techniques you've learned in prerequisite courses -- no object-oriented design (yet). Then as we learn new features of object-oriented programming, we'll refine and develop this original version until it takes full advantage of all that we'll learn in this course.
 
 For most of the series we'll be writing console programs. Once we learn enough about object-oriented syntax and design, we'll be ready to move to a GUI (graphical user interface) version of the program. Unfortunately there is not a common library for GUI programming in the standard C++ library. Instead there are add-ons included with some IDEs or supplied by 3rd parties for expanding your C++ installation to do GUI. A real nice option is "Qt" because it's free and works cross-platform. But there are licensing issues that make it not a desirable choice for a course like this.
